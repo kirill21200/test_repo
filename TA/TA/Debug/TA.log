@@ -1,0 +1,5 @@
+﻿  Main.cpp
+  onesidedList.cpp
+  Создание кода...
+C:\Users\user\Desktop\TA\TA\onesidedList.h(110): warning C4715: onesidedList<int>::getByIndex: значение возвращается не при всех путях выполнения
+  TA.vcxproj -> C:\Users\user\Desktop\TA\Debug\TA.exe
